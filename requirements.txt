@@ -1,6 +1,5 @@
-numpy
-pandas
+numpy==2.0.0
+pandas==2.2.2
 streamlit
-pip
 scikit-learn
-sklearn
+pip==23.2.1
